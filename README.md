@@ -1,4 +1,4 @@
-# -Ecommerce-Revenue-Intelligence-Agentic-Ai
+# Ecommerce-Revenue-Intelligence-Agentic-Ai
 Agentic AI-powered e-commerce revenue intelligence dashboard built with Power BI, DAX, Python, Ollama, and APIs to analyze revenue, customers, products, markets, and detect revenue anomalies for data-driven business decisions.
 # 🚀 E-Commerce Revenue Intelligence | Agentic AI + Power BI
 
